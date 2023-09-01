@@ -1,5 +1,5 @@
 # odin-recipes
 
-1st project from TOP. A recipe website.
+Recipe website project from The Odin Project.
 
-I'll be using the basics of HTML to create paragraphs, insert links and image and listing elements using ordered/unordered list.
+Here I use the basics of HTML such as paragraphs, ordered and unordered lists and links to other pages.
